@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 const CREDENTIALS = {
-    username: 'noah',
-    password: 'lovesgothmommy'
+    username: 'admin',
+    password: 'password'
 };
 const API_URL = "https://rewriterpro-backend.azurewebsites.net/api/getResponseToAPrompt";
 
